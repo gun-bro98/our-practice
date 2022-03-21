@@ -1,4 +1,5 @@
 a = 5
 b = 3
-c = a + b
-print(c)
+g = a + b
+print(g)
+print("덕주왔다감")
