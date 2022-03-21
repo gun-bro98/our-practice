@@ -1,1 +1,4 @@
-print('kimkim');
+print('hello');
+
+print('minsoo');
+
